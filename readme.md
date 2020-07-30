@@ -5,6 +5,8 @@ Helps in identifying whether particular area is ﬂooded or unﬂooded using SAR
 
 First read about SAR (Synthetic Aperture Radar) images : https://en.wikipedia.org/wiki/Synthetic-aperture_radar
 
+Project Contributors : https://github.com/aarish790 and https://github.com/sumitesh9
+
 # Details about Project
 This project was made as a coursework for the course - Image Processing (ECL 410) in the NIT Uttarakhand curriculum.
 
